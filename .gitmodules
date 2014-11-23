@@ -1,0 +1,3 @@
+[submodule "Genericons"]
+	path = Genericons
+	url = git@github.com:mcguffin/Genericons.git

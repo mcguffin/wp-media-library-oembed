@@ -1,0 +1,32 @@
+.oembed-ui {
+	padding:16px;
+	position:relative;
+}
+.oembed-ui .embed-url {
+	padding:0;
+}
+
+.insert-oembed-media {
+}
+
+.wp-core-ui .button-primary.insert-oembed-media,
+.wp-core-ui .button-secondary.insert-oembed-media {
+	height:auto;
+	padding-top:0.3em;
+	text-align:center;
+	display:inline-block;
+	
+}
+.wp-core-ui .insert-oembed-media span {
+	display:block;
+}
+.wp-core-ui .insert-oembed-media .dashicons {
+	display:block;
+	font-size:3em;
+	text-align:center;
+	width:auto;
+	height:0.8em;
+}
+.oembed-errors {
+	clear:both;
+}
